@@ -1,4 +1,4 @@
-<h1 align="center"> ## Привет, меня зовут Светлана 👋
+## <h1 align="center">Привет, меня зовут Светлана 👋
 
 <!--
 **SvetlanaKulintsova/SvetlanaKulintsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
