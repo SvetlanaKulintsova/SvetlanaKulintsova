@@ -5,6 +5,8 @@
 
 Способна превращать сложную информацию в доступные для понимания концепции, находить неочевидные связи, делать ценные выводы и делиться своими знаниями с коллегами.
 
+
+![Мои контакты](https://www.reshot.com/free-svg-icons/item/receive-mail-6CM7Z3V4BS/)
 <!--
 **SvetlanaKulintsova/SvetlanaKulintsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
