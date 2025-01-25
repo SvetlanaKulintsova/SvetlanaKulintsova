@@ -6,4 +6,5 @@
 Способна превращать сложную информацию в доступные для понимания концепции, находить неочевидные связи, делать ценные выводы и делиться своими знаниями с коллегами.
 
 
-![alt text](https://raw.githubusercontent.com/figures/img.png)
+![image](https://github.com/user-attachments/assets/2d13ffb9-bee1-4db9-bc9e-fdec49560e34)
+
