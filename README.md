@@ -31,3 +31,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 <hr>
+
+📝 ОБУЧЕНИЕ И СЕРТИФИКАТЫ:<br>
+
+[Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/4c90aca1-b899-43c5-84b5-7d41fd232c21/)
