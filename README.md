@@ -6,7 +6,7 @@
 Способна превращать сложную информацию в доступные для понимания концепции, находить неочевидные связи, делать ценные выводы и делиться своими знаниями с коллегами.
 
 
-📫 КОНТАКТЫ:<br>
+📩 КОНТАКТЫ:<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ksvetlana0583@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SvetlanaKulintsova)
