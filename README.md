@@ -35,3 +35,4 @@
 📝 ОБУЧЕНИЕ И СЕРТИФИКАТЫ:<br>
 
 [Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/4c90aca1-b899-43c5-84b5-7d41fd232c21/)
+[Симулятор SQL - KARPOV.COURSES](https://lab.karpov.courses/certificate/ec113fde-b40b-4be6-8a4b-577d9095587d/)
