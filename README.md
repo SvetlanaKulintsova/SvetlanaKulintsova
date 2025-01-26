@@ -8,4 +8,5 @@
 
 📫 КОНТАКТЫ:<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ksvetlana0583@gmail.com&logoColor=white)
+![Gmail](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 
