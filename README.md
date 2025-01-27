@@ -6,7 +6,7 @@
 Способна превращать сложную информацию в доступные для понимания концепции, находить неочевидные связи, делать ценные выводы и делиться своими знаниями с коллегами.
 
 <div align="center">
-  <img src="https://www.vecteezy.com/vector-art/49963162-woman-programmer-writing-code-on-laptop" width="600" height="300"/>
+  <img src="[https://www.vecteezy.com/vector-art/49963162-woman-programmer-writing-code-on-laptop](https://www.vecteezy.com/png/44428139-cartoon-character-with-the-desk-working-concept-illustration)" width="600" height="300"/>
 </div>
 
 📩 КОНТАКТЫ:<br>
