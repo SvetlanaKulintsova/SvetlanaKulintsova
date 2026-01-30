@@ -38,7 +38,7 @@
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22)
 ![LightGBM](https://img.shields.io/badge/LightGBM-7928A1?logo=lightgbm&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF6A00?logo=catboost&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Expert-FF6600)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600)
 
 
 <hr>
