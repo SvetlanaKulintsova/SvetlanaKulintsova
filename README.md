@@ -37,7 +37,7 @@
 ![Linear Models](https://img.shields.io/badge/Linear%20Models-Experienced-blue)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-Experienced-green)
 ![LightGBM](https://img.shields.io/badge/LightGBM-Advanced-7928A1)
-![CatBoost](https://img.shields.io/badge/CatBoost-Expert-orange)
+![CatBoost](https://img.shields.io/badge/CatBoost)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Expert-FF6600)
 
 
