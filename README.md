@@ -32,6 +32,14 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-035a7d?style=for-the-badge&logo=Oracle&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-430098)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00)
+![Linear Models](https://img.shields.io/badge/Linear%20Models-Experienced-blue)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-Experienced-green)
+![LightGBM](https://img.shields.io/badge/LightGBM-Advanced-7928A1)
+![CatBoost](https://img.shields.io/badge/CatBoost-Expert-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Expert-FF6600)
+
 
 <hr>
 
